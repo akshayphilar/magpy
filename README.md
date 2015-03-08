@@ -1,2 +1,3 @@
 # magpy
-Magento XML RPC API client in Python
+Python bindings for Magento XML RPC API 
+http://www.magentocommerce.com/api/soap/introduction.html#Introduction-XMLRPC
